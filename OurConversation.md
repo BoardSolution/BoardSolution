@@ -13,3 +13,8 @@ i add comments
 haha its dev branch
 
 wrote this from eunsuk branch
+
+eunsuk write it from gitdesktop
+
+
+>>>>>>> origin/main
