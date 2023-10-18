@@ -10,4 +10,7 @@ class BoardSolutionApplicationTests {
     void contextLoads() {
     }
 
+    
+    
+    //test
 }
