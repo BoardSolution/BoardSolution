@@ -2,7 +2,7 @@ package com.example.boardsolution;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-//te
+//test
 @SpringBootTest
 class BoardSolutionApplicationTests {
 
