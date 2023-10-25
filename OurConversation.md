@@ -7,7 +7,7 @@
 10.18 10:25 신범식 쓰다
 10.18 10:25 김은석이 먼저쓴걸로 수정  신범식 쓰다
 <<<<<<< Updated upstream
-aaa
+aaa//
 wefawegaweg
 =======
 add from testbranch
