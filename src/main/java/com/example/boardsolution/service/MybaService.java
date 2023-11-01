@@ -16,6 +16,7 @@ public class MybaService {
     TestMapper mapper;
 int a = 0;
 ///awegawegwg233w4w34y
+    //oractice
     @Autowired
     PlatformTransactionManager manager;
 
