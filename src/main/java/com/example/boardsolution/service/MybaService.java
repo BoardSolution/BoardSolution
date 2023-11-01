@@ -14,12 +14,13 @@ import org.springframework.transaction.support.DefaultTransactionDefinition;
 public class MybaService {
     @Autowired
     TestMapper mapper;
-
+int a = 0;
+///awegawegwg233w4w34y
     @Autowired
     PlatformTransactionManager manager;
 
     public int totSize(String str) {
-//추가함ㅈㄷㅎ
+//추가함ㅈㄷㅎergserg
         TransactionStatus status =
                 manager.getTransaction(new DefaultTransactionDefinition());
         int totSize =0;
